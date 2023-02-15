@@ -16,6 +16,7 @@
   min-height: 740px;
 }
 
+
 .cover:before {
   content: " ";
   display: block;
