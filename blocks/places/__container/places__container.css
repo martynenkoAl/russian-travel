@@ -1,0 +1,25 @@
+.places__container {
+  max-width: 984px;
+  margin: 0 auto;
+  padding: 92px 148px;
+}
+
+@media screen and (max-width: 1279px) {
+  .places__container {
+    max-width: 928px;
+    padding: 92px 48px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .places__container {
+    max-width: 720px;
+    padding: 88px 24px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .places__container {
+    padding: 64px 0;
+  }
+}

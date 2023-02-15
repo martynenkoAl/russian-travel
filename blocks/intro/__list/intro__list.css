@@ -1,4 +1,5 @@
 .intro__list {
+  font-family: 'Inter';
   color: #fff;
   list-style: none;
   margin: 0;
@@ -8,6 +9,3 @@
   line-height: 18px;
 }
 
-.intro__list .intro__numbers {
-  font-weight: 400;
-}
