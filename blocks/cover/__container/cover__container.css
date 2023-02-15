@@ -35,7 +35,7 @@
   transition: opacity 0.3s ease-in-out;
 }
 
-.cover_.cover__container:before {
+.cover__container:hover:before {
   opacity: 0.8;
 }
 
